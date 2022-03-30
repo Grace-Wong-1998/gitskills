@@ -1,2 +1,2 @@
 # gitskills
-## Just Try it 
+## Template
